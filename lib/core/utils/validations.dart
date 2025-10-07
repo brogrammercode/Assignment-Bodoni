@@ -19,4 +19,14 @@ class Validation {
     }
     return null;
   }
+
+  static String? weddingNameValidator(value) {
+    if (value == null || value.isEmpty) {
+      return "Wedding name is required";
+    }
+    if (value.length < 3) {
+      return "Wedding name must be at least 3 characters";
+    }
+    return null;
+  }
 }

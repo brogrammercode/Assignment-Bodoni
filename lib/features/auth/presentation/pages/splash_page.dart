@@ -5,7 +5,7 @@ import 'package:wedplan/core/config/exception.dart';
 import 'package:wedplan/core/utils/assets.dart';
 import 'package:wedplan/features/auth/presentation/cubit/auth_cubit.dart';
 import 'package:wedplan/features/auth/presentation/pages/login_page.dart';
-import 'package:wedplan/features/home/presentation/pages/home_page.dart'; // <-- assume you have this
+import 'package:wedplan/features/weeding/presentation/pages/home_page.dart'; // <-- assume you have this
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

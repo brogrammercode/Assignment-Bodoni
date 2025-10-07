@@ -10,7 +10,7 @@ import 'package:wedplan/core/utils/assets.dart';
 import 'package:wedplan/core/utils/definites.dart';
 import 'package:wedplan/features/auth/data/dto.dart';
 import 'package:wedplan/features/auth/presentation/cubit/auth_cubit.dart';
-import 'package:wedplan/features/home/presentation/pages/home_page.dart';
+import 'package:wedplan/features/weeding/presentation/pages/home_page.dart';
 import 'package:wedplan/shared/widgets/elevated_button.dart';
 import 'package:wedplan/shared/widgets/textfield.dart';
 
